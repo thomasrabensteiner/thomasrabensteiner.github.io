@@ -1,5 +1,5 @@
 baseURL: https://example.com/
-title: Hugo Book
+title: Thomas Rabensteiner
 theme: hugo-book
 disablePathToLower: yes
 enableGitInfo: yes
