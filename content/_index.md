@@ -3,17 +3,9 @@ title: Bio
 type: docs
 ---
 
-# Thomas Rabensteiner
-
-## PhD candidate in Economics
-
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
 
 
-## Suis quot vota
+I am a Phd candidate in Economics at the University of Greenwich. 
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+
+On this website, you find my research, teaching materials and stuff I found useful. I will sometimes write blogposts as well.
