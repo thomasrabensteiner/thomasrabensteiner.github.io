@@ -1,4 +1,4 @@
-baseURL: https://example.com/
+baseURL: https://thomasrabensteiner.github.io
 title: Thomas Rabensteiner
 theme: hugo-book
 disablePathToLower: yes
@@ -18,17 +18,14 @@ languages:
     contentDir: content.ru
     languageName: Russian
     weight: 2
-  zh:
-    contentDir: content.zh
-    languageName: Chinese
-    weight: 3
+
 menu:
   after:
     - name: Github
       url: https://github.com/alex-shpak/hugo-book
       weight: 10
-    - name: Hugo Themes
-      url: https://themes.gohugo.io/hugo-book/
+    - name: CV
+      url: https://thomasrabensteiner
       weight: 20
 params:
   BookComments: yes
