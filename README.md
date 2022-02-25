@@ -1,1 +1,1 @@
-# thomasrabensteiner.github.io
+# academic-website
