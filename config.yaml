@@ -1,4 +1,4 @@
-baseURL: https://thomasrabensteiner.github.io
+baseURL: "https://thomasrabensteiner.github.io/"
 title: Thomas Rabensteiner
 theme: hugo-book
 disablePathToLower: yes
