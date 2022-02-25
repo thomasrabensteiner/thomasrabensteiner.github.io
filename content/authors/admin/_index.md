@@ -37,7 +37,7 @@ social:
   link: https://scholar.google.com/citations?user=x146Ra0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/eteitelbaum
+  link: https://github.com/thomasrabensteiner
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/emmanuel-teitelbaum-75a93b4/
@@ -47,11 +47,11 @@ superuser: true
 title: 
 ---
 
-I am an associate professor of political science and international affairs at [The George Washington University](www.gwu.edu). My research and writing explore how class conflict and compromise intersect with democracy and development. I also have a strong interest in labor standards and understanding how labor unions, nonprofit organizations, consumers and corporations can help to promote them.    
+I am an associate professor of political science and international affairs at [The University of Greenwich](www.gre.ac.uk). My research and writing explore how class conflict and compromise intersect with democracy and development. I also have a strong interest in labor standards and understanding how labor unions, nonprofit organizations, consumers and corporations can help to promote them.    
 
 At GW, I teach courses on comparative politics, comparative political economy and South Asia. I am on faculty in the [Department of Political Science](https://politicalscience.columbian.gwu.edu/) and the [Elliott School of International Affairs](https://elliott.gwu.edu/) and am affiliated with the [Sigur Center for Asian Studies](https://sigur.elliott.gwu.edu/) as well as the Institute for [International Economic Policy](https://iiep.gwu.edu/). 
 
 I also serve as one of the managing editors for the [Journal of Development Studies](https://www.tandfonline.com/toc/fjds20/current).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/tr-rmarkdown-cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
