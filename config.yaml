@@ -36,3 +36,6 @@ params:
   BookTheme: light
   BookToC: yes
   BookTranslatedOnly: no
+  
+  
+day_night = true
