@@ -16,23 +16,20 @@ languages:
     weight: 1
   ru:
     contentDir: content.ru
-    languageName: Russian
+    languageName: Deutsch
     weight: 2
 
 menu:
   after:
-    - name: Github
-      url: https://github.com/alex-shpak/hugo-book
-      weight: 10
     - name: CV
-      url: https://thomasrabensteiner
-      weight: 20
+      url: https://https://github.com/thomasrabensteiner/thomasrabensteiner.github.io/blob/main/assets/tr-rmarkdown-cv.pdf
+      weight: 10
 params:
   BookComments: yes
   BookDateFormat: January 2, 2006
   BookEditPath: edit/main/exampleSite
   BookPortableLinks: yes
-  BookRepo: https://github.com/alex-shpak/hugo-book
+  BookRepo: https://https://github.com/thomasrabensteiner/thomasrabensteiner.github.io
   BookSearch: yes
   BookSection: docs
   BookServiceWorker: yes
