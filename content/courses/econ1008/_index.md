@@ -1,6 +1,6 @@
 ---
 date: "2021-01-08"
-lastmod: "2022-24-02"
+lastmod: "2022-02-24"
 title: "ECON 1008: Macroeconomics"
 linktitle: Macroeconomics
 summary: Tutorial leader
