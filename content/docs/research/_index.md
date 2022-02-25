@@ -1,5 +1,5 @@
 ---
-title: "_indes.md"
+title: "_index.md"
 author: "Thomas Rabensteiner"
 date: "25/02/2022"
 output: html_document
