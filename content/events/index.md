@@ -1,7 +1,9 @@
 ---
 header:
   caption: ""
-image: ""
+image:
+  caption: ""
+  focal_point: ""
 layout: book
 title: Events and Awards
 ---
