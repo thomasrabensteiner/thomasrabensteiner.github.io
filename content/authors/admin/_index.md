@@ -30,8 +30,8 @@ social:
   icon_pack: fab
   link: https://github.com/thomasrabensteiner
 - icon: linkedin
- icon_pack: fab
- link: https://www.linkedin.com/in/thomas-rabensteiner-0b71a0188?originalSubdomain=uk
+  icon_pack: fab
+  link: https://www.linkedin.com/in/thomas-rabensteiner-0b71a0188?originalSubdomain=uk
   
 superuser: true
 
