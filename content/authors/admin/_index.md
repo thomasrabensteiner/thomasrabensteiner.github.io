@@ -1,8 +1,10 @@
 ---
-bio: I am a lecturer in economics based at the University of Greenwich and affiliated with the Centre of Political Economy, Governance, Finance and Accountability. My research focuses on labour economics, industrial relations and income distribution. At the University of Greenwich, I teach modules in data analysis and  macroeconomics. 
+bio: I am a lecturer in economics based at the University of Greenwich and affiliated with the Centre of Political Economy, Governance, Finance and Accountability. My research focuses on labour economics, industrial relations and income distribution. At the University of Greenwich, I teach modules in applied data analysis and  macroeconomics. 
+
+
 
     
-email: "rabensteiner.th@gmail.com"
+email: "t.rabensteiner@gre.ac.uk"
 
 highlight_name: true
 
@@ -19,7 +21,7 @@ role: Lecturer in Economics
 
 social:
 - icon: envelope
-  link: '/#contact'
+  link: 'mailto:t.rabensteiner@gre.ac.uk'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/thomsiaae
@@ -53,4 +55,4 @@ Research impact: My research has been cited in European parliamentary debates an
 The report The Profit-Price Spiral in Food and Energy was launched at the European Economic and Social Committee in Brussels (September 2025), featuring high-profile Members of the European Parliament and the Head of the Policy Coordination Unit in the European Commission on my panel. I am regularly invited to present my expertise on this topic to policymakers, notably at the German Federal Chancellery in Berlin (October 2024), in Bratislava (June 2025) and Rome (June 2025). My findings were echoed by the European Committee of the Regions. I also contribute to public debate on through writing in Makronom Magazine and my work has been featured in The Guardian. I have also contributed to a report on “A workers’ plan for Port Talbot”, researching policy pathways for future sustainable economic development and employment in South Wales. -->
 
 
-{{< icon name="download" pack="fas" >}} My {{< staticref "media/tr-rmarkdown-cv.pdf" "newtab" >}} CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} My {{< staticref "media/tr-latex-cv.pdf" "newtab" >}} CV{{< /staticref >}}.
