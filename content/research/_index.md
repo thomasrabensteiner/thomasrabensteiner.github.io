@@ -2,22 +2,22 @@
 
 ---
 
-#### [Rabensteiner and Guschanski (2024), Occupational Autonomy and Wage Divergence: Evidence From European Survey Data](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bjir.70003)
+#### [Rabensteiner and Guschanski (2025), Occupational Autonomy and Wage Divergence: Evidence From European Survey Data](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bjir.70003)
 *British Journal of Industrial Relations*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### [Rabensteiner and Guschanski (2025), Do recessions accelerate routine-biased technological change? Evidence from Western Europe](https://gala.gre.ac.uk/id/eprint/50671/7/50671%20RABENSTEINER_Do_Recessions_Accelerate_Routine-Biased_Technological_Change_In_Western_Europe_%28WP%29_2025.pdf)
+#### [Rabensteiner and Guschanski, Do recessions accelerate routine-biased technological change? Evidence from Western Europe](https://gala.gre.ac.uk/id/eprint/50671/7/50671%20RABENSTEINER_Do_Recessions_Accelerate_Routine-Biased_Technological_Change_In_Western_Europe_%28WP%29_2025.pdf)
 *Revise and resubmit at Socio-Economic Review*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### Rabensteiner and Guschanski (2026), The rise of the supervisory wage gap in Europe
+#### Rabensteiner and Guschanski, The rise of the supervisory wage gap in Europe
 *Under submission*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### [Calvert Jump, Michell, Rabensteiner, and Norvaisa (2025), Estimating the Effects of Austerity on the Labour Market: Evidence from Great Britain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5923063)
+#### [Calvert Jump, Michell, Rabensteiner, and Norvaisa, Estimating the Effects of Austerity on the Labour Market: Evidence from Great Britain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5923063)
 *Under submission*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
@@ -36,7 +36,7 @@
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### [Heck and Rabensteiner (2024), Gewinne im �berfluss](https://makronom.de/gewinne-im-ueberfluss-wer-profitiert-von-den-krisen-47654)
+#### [Heck and Rabensteiner (2024), Gewinne im Ueberfluss](https://makronom.de/gewinne-im-ueberfluss-wer-profitiert-von-den-krisen-47654)
 *Makronom (in German)*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
