@@ -12,8 +12,8 @@
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### Rabensteiner and Guschanski, The rise of the supervisory wage gap in Europe
-*Under submission*
+#### [Rabensteiner and Guschanski, The rise of the supervisory wage gap in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
+*Under submission* — [Supplementary appendix](/pdf/sup_appendix_le.pdf)
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
