@@ -12,13 +12,13 @@
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### [Rabensteiner and Guschanski, The rise of the supervisory wage gap in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
-*Under submission* — [Supplementary appendix](/pdf/sup_appendix_le.pdf)
+#### [Calvert Jump, Michell, Rabensteiner, and Norvaisa, Estimating the Effects of Austerity on the Labour Market: Evidence from Great Britain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5923063)
+*Under Review*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### [Calvert Jump, Michell, Rabensteiner, and Norvaisa, Estimating the Effects of Austerity on the Labour Market: Evidence from Great Britain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5923063)
-*Under Review*
+#### [Rabensteiner and Guschanski, The rise of the supervisory wage gap in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
+*Under submission* — [Supplementary appendix](/pdf/sup_appendix_le.pdf) - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
@@ -45,16 +45,3 @@
 *PEGFA Policy Brief*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
-
-### In progress
-
----
-
-#### The gendered labour markets effects of austerity (with Rob Jump and Jo Michell)
-
-#### Housing affordability in the UK (with Hannah Hasenberger)
-
-#### Do the poor pay more for housing in the UK? (with Hannah Hasenberger)
-
-#### Migration and housing costs in the UK (with Luca Tasciotti and Navjot Sangwan)
-
