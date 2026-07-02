@@ -8,23 +8,28 @@
 - Image: _Add image._ -->
 
 #### [Rabensteiner and Guschanski, Do recessions accelerate routine-biased technological change? Evidence from Western Europe](https://gala.gre.ac.uk/id/eprint/50671/7/50671%20RABENSTEINER_Do_Recessions_Accelerate_Routine-Biased_Technological_Change_In_Western_Europe_%28WP%29_2025.pdf)
-*Revise and resubmit at Socio-Economic Review*
+*Conditionally accepted at Socio-Economic Review*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
 #### [Calvert Jump, Michell, Rabensteiner, and Norvaisa, Estimating the Effects of Austerity on the Labour Market: Evidence from Great Britain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5923063)
-*Under Review*
+*Under review*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
 #### [Rabensteiner and Guschanski, The rise of the supervisory wage gap in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
-*Under submission* — [Supplementary appendix](/pdf/sup_appendix_le.pdf) - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
+*Under review* — [Supplementary appendix](/pdf/sup_appendix_le.pdf) - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
 ### Policy publications
 
 ---
+
+#### Rabensteiner, Sangwan, and Tasciotti (forthcoming), Migration and housing costs: What does international evidence imply for the UK?
+*Report, Migration Advisory Committee*
+<!-- - Short summary: _Add short summary._
+- Image: _Add image._ -->
 
 #### [Rabensteiner, Heck, Tippet and Kolesnichenko (2025), The profit-price spiral in food and energy: Analysis and toolbox to fight inflation](https://gala.gre.ac.uk/id/eprint/50213/8/50213%20RABENSTEINER_The_Profit-price_Spiral_In_Food_And_Energy_%28VoR%29_2025.pdf)
 *Policy Report, Foundation for European Progressive Studies*
