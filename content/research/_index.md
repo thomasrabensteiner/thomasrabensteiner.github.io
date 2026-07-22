@@ -26,7 +26,7 @@
 
 ---
 
-#### Rabensteiner, Sangwan, and Tasciotti (forthcoming), Migration and housing costs: What does international evidence imply for the UK?
+#### [Rabensteiner, Sangwan, and Tasciotti (2026), Migration and housing costs: What does international evidence imply for the UK?](https://www.gov.uk/government/publications/migration-and-housing-costs-what-does-international-evidence-imply-for-the-uk)
 *Report, Migration Advisory Committee*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
@@ -50,3 +50,4 @@
 *PEGFA Policy Brief*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
+
