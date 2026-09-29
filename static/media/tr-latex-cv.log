@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.22)  22 JUL 2026 16:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.22)  29 SEP 2026 12:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -362,31 +362,31 @@ File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 167.
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 150.
  (c:/texlive/2020/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) [2] [3]
-Overfull \hbox (7.8047pt too wide) in paragraph at lines 244--245
+Overfull \hbox (7.8047pt too wide) in paragraph at lines 259--260
 []\OT1/pplj/m/n/10 Forum for Macroe-co-nomics and Macroe-co-nomic Poli-cies Con-fer-ence, Young Economists Con-fer-ence, EAEPE
  []
 
-[4] (c:/academic-website/static/media/tr-latex-cv.aux)
+[4] [5] (c:/academic-website/static/media/tr-latex-cv.aux)
 Package rerunfilecheck Info: File `tr-latex-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 6425 strings out of 479917
- 96438 string characters out of 5886664
+ 6429 strings out of 479917
+ 96477 string characters out of 5886664
  406625 words of memory out of 5000000
- 22877 multiletter control sequences out of 15000+600000
+ 22878 multiletter control sequences out of 15000+600000
  547632 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,5n,72p,723b,388s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,6n,72p,705b,388s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on c:/academic-website/static/media/tr-latex-cv.pdf (4 pages, 113017 bytes).
+Output written on c:/academic-website/static/media/tr-latex-cv.pdf (5 pages, 115795 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
- 16 named destinations out of 1000 (max. 500000)
+ 106 PDF objects out of 1000 (max. 8388607)
+ 91 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

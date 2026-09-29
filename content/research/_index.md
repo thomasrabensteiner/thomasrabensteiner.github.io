@@ -2,30 +2,39 @@
 
 ---
 
-#### [Rabensteiner and Guschanski (2025), Occupational Autonomy and Wage Divergence: Evidence From European Survey Data](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bjir.70003)
+#### [Rabensteiner and Guschanski (2025). Occupational Autonomy and Wage Divergence: Evidence From European Survey Data](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bjir.70003)
 *British Journal of Industrial Relations*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
 #### [Rabensteiner and Guschanski, Do recessions accelerate routine-biased technological change? Evidence from Western Europe](https://gala.gre.ac.uk/id/eprint/50671/7/50671%20RABENSTEINER_Do_Recessions_Accelerate_Routine-Biased_Technological_Change_In_Western_Europe_%28WP%29_2025.pdf)
-*Conditionally accepted at Socio-Economic Review*
+*Accepted at Socio-Economic Review*
+<!-- - Short summary: _Add short summary._
+- Image: _Add image._ -->
+
+
+#### [Rabensteiner and Guschanski, The rise of the supervisory wage gap in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
+*Revise and Resubmit at ILR Review* — [Supplementary appendix](/pdf/sup_appendix_le.pdf) - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
 #### [Calvert Jump, Michell, Rabensteiner, and Norvaisa, Estimating the Effects of Austerity on the Labour Market: Evidence from Great Britain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5923063)
-*Under review*
+*Under review* - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5923063)
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### [Rabensteiner and Guschanski, The rise of the supervisory wage gap in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
-*Under review* — [Supplementary appendix](/pdf/sup_appendix_le.pdf) - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
+#### [Rabensteiner and Hasenberger, Do Renters In Deprived Neighbourhoods Pay More? Rental Yields And The Poverty Penalty: Evidence From England And Wales](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7497881)
+*Under Review* - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7497881)
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
+
+#### [Rabensteiner, Sangwan, and Tasciotti, Immigration and Housing Costs: A Survey of Evidence, Mechanisms and Identification]
+*Under Review*
+
 
 ### Policy publications
 
 ---
-
 #### [Rabensteiner, Sangwan, and Tasciotti (2026), Migration and housing costs: What does international evidence imply for the UK?](https://www.gov.uk/government/publications/migration-and-housing-costs-what-does-international-evidence-imply-for-the-uk)
 *Report, Migration Advisory Committee*
 <!-- - Short summary: _Add short summary._
