@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1790680059 "c:/academic-website/static/media/tr-latex-cv.tex" "c:/academic-website/static/media/tr-latex-cv.pdf" "tr-latex-cv" 1790680149
-  "c:/academic-website/static/media/tr-latex-cv.aux" 1790680061 686 3679e47b2b137aa430e4f1f8398129a8 ""
-  "c:/academic-website/static/media/tr-latex-cv.tex" 1790680148 17096 9dbd1bb1a0fcbd8bcb83f775833185c4 ""
+["pdflatex"] 1790869106 "c:/academic-website/static/media/tr-latex-cv.tex" "c:/academic-website/static/media/tr-latex-cv.pdf" "tr-latex-cv" 1790869111
+  "c:/academic-website/static/media/tr-latex-cv.aux" 1790869109 686 3679e47b2b137aa430e4f1f8398129a8 ""
+  "c:/academic-website/static/media/tr-latex-cv.tex" 1790869110 17103 b8f087c8427598944e2d6738b900dfcf ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc" 1603363039 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rmtt.enc" 1603364374 2359 de53213020575850c8f8debc35095765 ""
   "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1603363454 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -85,13 +85,13 @@
   "c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1603367954 5062869 3bba8d868f1e21883156f100c8c30a87 ""
   "c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1603368074 2535459 e48c778746fc8daf53537aa26d49e635 ""
   "c:/texlive/2020/texmf.cnf" 1603367906 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "tr-latex-cv.aux" 1790680061 686 3679e47b2b137aa430e4f1f8398129a8 "pdflatex"
-  "tr-latex-cv.out" 1790680060 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "tr-latex-cv.tex" 1790680148 17096 9dbd1bb1a0fcbd8bcb83f775833185c4 ""
+  "tr-latex-cv.aux" 1790869109 686 3679e47b2b137aa430e4f1f8398129a8 "pdflatex"
+  "tr-latex-cv.out" 1790869108 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "tr-latex-cv.tex" 1790869110 17103 b8f087c8427598944e2d6738b900dfcf ""
   (generated)
+  "tr-latex-cv.aux"
+  "tr-latex-cv.pdf"
+  "tr-latex-cv.log"
   "c:/academic-website/static/media/tr-latex-cv.log"
   "tr-latex-cv.out"
-  "tr-latex-cv.pdf"
   "c:/academic-website/static/media/tr-latex-cv.pdf"
-  "tr-latex-cv.aux"
-  "tr-latex-cv.log"
