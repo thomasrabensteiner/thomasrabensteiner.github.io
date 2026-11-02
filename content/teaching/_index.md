@@ -12,4 +12,4 @@ At the University of Greenwich, I currently teach **ECON1192 Intermediate Macroe
 
 I supervise undergraduate and postgraduate dissertations.
 
-I also currently co-supervise three brilliant PhD students: Conor Gray, Julia Indiani, and Rowan Mataram.
+I currently co-supervise five brilliant PhD students: Conor Gray, Julia Indiani, Rowan Mataram, Xeni Venega and Matthew Davis.

@@ -7,14 +7,20 @@
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### [Rabensteiner and Guschanski, Do recessions accelerate routine-biased technological change? Evidence from Western Europe](https://gala.gre.ac.uk/id/eprint/50671/7/50671%20RABENSTEINER_Do_Recessions_Accelerate_Routine-Biased_Technological_Change_In_Western_Europe_%28WP%29_2025.pdf)
-*Accepted at Socio-Economic Review*
+#### [Rabensteiner and Guschanski (2026). Do recessions accelerate routine-biased technological change? Evidence from Western Europe](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwag067/8931816?redirectedFrom=fulltext)
+*Socio-Economic Review*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
 
-#### [Rabensteiner and Guschanski, The rise of the supervisory wage gap in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
+#### [Rabensteiner and Guschanski. The rise of the supervisory wage gap in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
 *Revise and Resubmit at ILR Review* — [Supplementary appendix](/pdf/sup_appendix_le.pdf) - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
+<!-- - Short summary: _Add short summary._
+- Image: _Add image._ -->
+
+
+#### [Rabensteiner and Hasenberger, Do Renters In Deprived Neighbourhoods Pay More? Rental Yields And The Poverty Penalty: Evidence From England And Wales](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7497881)
+*Revise and Resubmit at Socio-Economic Review* - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7497881)
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
@@ -23,13 +29,8 @@
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### [Rabensteiner and Hasenberger, Do Renters In Deprived Neighbourhoods Pay More? Rental Yields And The Poverty Penalty: Evidence From England And Wales](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7497881)
-*Under Review* - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7497881)
-<!-- - Short summary: _Add short summary._
-- Image: _Add image._ -->
-
 #### [Rabensteiner, Sangwan, and Tasciotti, Immigration and Housing Costs: A Survey of Evidence, Mechanisms and Identification]
-*Under Review*
+Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7540001)
 
 
 ### Policy publications
@@ -59,4 +60,9 @@
 *PEGFA Policy Brief*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
+
+<!-- ### Policy publications* -->
+<!-- - The distributional effect of energy price shocks: evidence from OECD countries (with Alexander Guschanski
+- The effect of immigration on housing costs in the UK
+- Landlord decision making (with Hannah Hasenberger) -->
 
