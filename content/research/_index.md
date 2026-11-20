@@ -1,37 +1,48 @@
-### Academic publications
+### Journal publications
 
 ---
 
-#### [Rabensteiner and Guschanski (2025). Occupational Autonomy and Wage Divergence: Evidence From European Survey Data](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bjir.70003)
+#### [Rabensteiner and Guschanski, 2025. Occupational Autonomy and Wage Divergence: Evidence From European Survey Data](https://onlinelibrary.wiley.com/doi/pdf/10.1111/bjir.70003)
 *British Journal of Industrial Relations*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### [Rabensteiner and Guschanski (2026). Do recessions accelerate routine-biased technological change? Evidence from Western Europe](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwag067/8931816?redirectedFrom=fulltext)
+#### [Rabensteiner and Guschanski, 2026. Do recessions accelerate routine-biased technological change? Evidence from Western Europe](https://academic.oup.com/ser/advance-article-abstract/doi/10.1093/ser/mwag067/8931816?redirectedFrom=fulltext)
 *Socio-Economic Review*
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
+### Working papers
 
-#### [Rabensteiner and Guschanski. The rise of the supervisory wage gap in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
+#### [Rabensteiner and Guschanski, 2026. The rise of the supervisory wage gap in Europe](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
 *Revise and Resubmit at ILR Review* — [Supplementary appendix](/pdf/sup_appendix_le.pdf) - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6786318)
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-
-#### [Rabensteiner and Hasenberger, Do Renters In Deprived Neighbourhoods Pay More? Rental Yields And The Poverty Penalty: Evidence From England And Wales](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7497881)
+#### [Rabensteiner and Hasenberger, 2026. Do Renters In Deprived Neighbourhoods Pay More? Rental Yields And The Poverty Penalty: Evidence From England And Wales](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7497881)
 *Revise and Resubmit at Socio-Economic Review* - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7497881)
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### [Calvert Jump, Michell, Rabensteiner, and Norvaisa, Estimating the Effects of Austerity on the Labour Market: Evidence from Great Britain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5923063)
+#### [Calvert Jump, Michell, Rabensteiner, and Norvaisa, 2025. Estimating the Effects of Austerity on the Labour Market: Evidence from Great Britain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5923063)
 *Under review* - Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5923063)
 <!-- - Short summary: _Add short summary._
 - Image: _Add image._ -->
 
-#### [Rabensteiner, Sangwan, and Tasciotti, Immigration and Housing Costs: A Survey of Evidence, Mechanisms and Identification]
-Working paper [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7540001)
+#### [Rabensteiner, Sangwan, and Tasciotti, 2026. Immigration and Housing Costs: A Survey of Evidence, Mechanisms and Identification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7540001)
+Working paper [here]
 
+### In progress
+
+#### Rental yields and landlord decision-making (with Hannah Hasenberger)
+#### The distributional effect of energy price shocks: evidence from OECD countries (with Alexander Guschanski)
+#### Migration and rents in the UK
+
+<!-- Potential projects: 
+    - individual level effects of austerity
+    - excess profits and firm decisions
+    - Student migration and local housing markets
+ -->
 
 ### Policy publications
 
